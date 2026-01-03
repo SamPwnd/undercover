@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Undercover",
-    "slug": "Undercover",
+    "name": "Mimic: Trova l'Impostore",
+    "slug": "mimic-trova-impostore",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
